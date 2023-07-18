@@ -9,9 +9,6 @@ Tanks is an Windows based 3D isometric game created in Unity 3D game engine
 - You have to win 5 rounds more than the opponent to win the game 
 - Each round ends when one tank depletes the life of another tanks
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Controls 
 
